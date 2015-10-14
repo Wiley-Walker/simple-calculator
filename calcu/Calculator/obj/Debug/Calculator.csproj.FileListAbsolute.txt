@@ -1,0 +1,8 @@
+C:\Users\Wiley\Documents\Visual Studio 2015\Projects\calcu\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Wiley\Documents\Visual Studio 2015\Projects\calcu\Calculator\bin\Debug\Calculator.exe
+C:\Users\Wiley\Documents\Visual Studio 2015\Projects\calcu\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Wiley\Documents\Visual Studio 2015\Projects\calcu\Calculator\bin\Debug\Models.dll
+C:\Users\Wiley\Documents\Visual Studio 2015\Projects\calcu\Calculator\bin\Debug\Models.pdb
+C:\Users\Wiley\Documents\Visual Studio 2015\Projects\calcu\Calculator\obj\Debug\Calculator.exe
+C:\Users\Wiley\Documents\Visual Studio 2015\Projects\calcu\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Wiley\Documents\Visual Studio 2015\Projects\calcu\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache

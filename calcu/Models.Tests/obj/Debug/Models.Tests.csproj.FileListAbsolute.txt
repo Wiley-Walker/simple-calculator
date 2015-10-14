@@ -1,0 +1,8 @@
+C:\Users\Wiley\Documents\Visual Studio 2015\Projects\calcu\Models.Tests\bin\Debug\Models.Tests.dll
+C:\Users\Wiley\Documents\Visual Studio 2015\Projects\calcu\Models.Tests\bin\Debug\Models.Tests.pdb
+C:\Users\Wiley\Documents\Visual Studio 2015\Projects\calcu\Models.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Wiley\Documents\Visual Studio 2015\Projects\calcu\Models.Tests\bin\Debug\Models.dll
+C:\Users\Wiley\Documents\Visual Studio 2015\Projects\calcu\Models.Tests\bin\Debug\Models.pdb
+C:\Users\Wiley\Documents\Visual Studio 2015\Projects\calcu\Models.Tests\obj\Debug\Models.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Wiley\Documents\Visual Studio 2015\Projects\calcu\Models.Tests\obj\Debug\Models.Tests.dll
+C:\Users\Wiley\Documents\Visual Studio 2015\Projects\calcu\Models.Tests\obj\Debug\Models.Tests.pdb
